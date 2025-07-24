@@ -1,6 +1,5 @@
-# Desafio-html
-
-🧠Este projeto foi desenvolvido como parte do Desafio de Projeto da DIO, no primeiro módulo da Trilha HTML.
+🧠 Desafio HTML – DIO
+Este projeto foi desenvolvido como parte do Desafio de Projeto da DIO, no primeiro módulo da Trilha HTML.
 A proposta é colocar em prática os principais conceitos vistos em aula, criando uma página simples e funcional que utiliza diversas tags HTML.
 
 📌 Sobre o projeto
@@ -19,6 +18,36 @@ Neste mini projeto, você vai encontrar:
 Este exercício tem como finalidade fixar os conceitos básicos de HTML e servir como referência para revisões futuras.
 
 🔗 Links úteis
-📚 Repositório base do desafio: Trilha HTML - Módulo 1 (DIO)
+📚 Repositório base do desafio:
+Trilha HTML - Módulo 1 (DIO)
 
-🎥 Vídeo complementar: Curso básico de HTML (YouTube)
+🎥 Vídeo complementar:
+Curso básico de HTML (YouTube)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
